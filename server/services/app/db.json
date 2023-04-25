@@ -1,0 +1,118 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "How physics can improve the urinal",
+      "slug": "how-physics-can-improve-the-urinal",
+      "content": "Restroom visitors can expect cleaner knees and tidier floors, if they happen to use a new urinal inspired by curves in nature.' \n The key to making a splashless urinal is ensuring that a person’s pee stream hits the porcelain at a shallow angle no matter where it is aimed, researchers report November 22 at the American Physical Society’s Division of Fluid Dynamics meeting in Indianapolis.' \n “For a small enough angle, there is no splash,” says mechanical engineer Zhao Pan of the University of Waterloo in Canada. Pan calls the angle where splashing ceases “the critical angle.” Keeping the angle that a fluid strikes the surface at the critical angle or lower prevents the splash.' \n Pan and colleagues’ design — a tall, narrow urinal with a curving inner surface — employs the same geometry as a nautilus shell (SN: 4/1/05). “There’s a smooth flow across the surface,” says Waterloo mechanical engineering student Kaveeshan Thurairajah, which prevents droplets from flying out.' \n In experiments involving dyed fluids sprayed into conventional urinals, the team found significant splash that, in the real world, would have ended up on a person’s legs and feet and on the floor nearby. When the researchers repeated the experiments with prototypes of the new design and inspected the surrounding surfaces, “I couldn’t find even a single droplet,” Thurairajah says.' \n It’s unclear whether people using the new urinals will still somehow find a way to make a mess. To tell how well the urinals work in eventual real-world tests, Pan says, “just look at the floor.” \n ",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/11/111722_JR_splashless-urinal_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "1",
+      "authorId": "1"
+    },
+    {
+      "id": 2,
+      "title": "Homo naledi may have lit fires in underground caves at least 236,000 years ago",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/12/120122_bb_h.-naledi-fire-use_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    },
+    {
+      "id": 3,
+      "title": "Here’s where jazz gets its swing",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/10/100522_no_swing-rhythm_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    },
+    {
+      "id": 4,
+      "title": "Ancient DNA unveils Siberian Neandertals’ small-scale social lives",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/10/101822_bb_neadertal_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    },
+    {
+      "id": 5,
+      "title": "The oldest known surgical amputation occurred 31,000 years ago",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/09/090622_bb_amputation_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    },
+    {
+      "id": 6,
+      "title": "How much water should you drink a day? It depends on several factors.",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/12/120122_ag_drinking-water_feat-870x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    },
+    {
+      "id": 7,
+      "title": "Brief bursts of activity offer health benefits for people who don’t exercise",
+      "slug": "heres-where-jazz-gets-its-swing",
+      "content": "It don’t mean a thing if it ain’t got that swing — all you’ve got to do is stagger your timing.\nFor decades, fans of jazz music have debated why some songs have swing — the characteristic swaying feeling that compels feet to tap and heads to bop. Now, scientists may finally have an answer to Louis Armstrong’s classic song “What Is This Thing Called Swing?” and the secret lies in the timing of jazz soloists.\nAfter listening to original and digitally tweaked piano recordings, jazz musicians were more than seven times as likely to rate music as “swinging” when the soloist’s timing was partially delayed with respect to the rhythm section, researchers report October 6 in Communications Physics.\n In jazz, musicians are trained to swing eighth notes, or extend the duration of their downbeats — every other eighth note — and shorten the beats in between to create a galloping rhythm. But the technique on its own doesn’t explain swing, says physicist Theo Geisel. Computer-generated jazz songs with swung eighth notes still lack the style’s swaying feel (SN: 2/17/22).\nPast research hinted that swing might arise from differences in the timing between musicians within a band (SN: 1/2/18). So Geisel and colleagues tweaked only the timing of the soloists in jazz recordings on a computer and asked professional and semiprofessional jazz musicians to rate each recording’s swing.\nMusicians were nearly 7.5 times as likely to judge music as more swinging when the soloists’ downbeats were minutely delayed with respect to the rhythm section, but not their offbeats.\nMost of the musicians couldn’t put their finger on what was causing the effect, says Geisel, of the Max Planck Institute for Dynamics and Self-Organization in Göttingen, Germany. “Professional jazz musicians who have played for many years apparently have learned to do this unconsciously.” \nThe researchers also analyzed 456 jazz performances from various artists and found almost all soloists used downbeat delays, with an average delay of 30 milliseconds. This average held across the jazz subgenres of bebop, swing and hardbop, though there was some variation, Geisel says. “For faster tempos, the delays get smaller.” \nLooking ahead, Geisel intends to investigate how “laid-back playing” — a popular style of delaying both downbeats and offbeats in jazz — influences swing.",
+      "imgUrl": "https://www.sciencenews.org/wp-content/uploads/2022/12/120722_ac_exercise_feat-1030x580.jpg",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z",
+      "categoryId": "2",
+      "authorId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Physics",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z"
+    },
+    {
+      "id": 2,
+      "name": "Humans",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Urinal",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "name": "Jazz",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "name": "Music",
+      "createdAt": "2022-12-12T05:21:24.443Z",
+      "updatedAt": "2022-12-12T05:21:38.506Z"
+    }
+  ]
+}
